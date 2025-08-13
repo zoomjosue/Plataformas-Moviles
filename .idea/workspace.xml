@@ -4,7 +4,55 @@
     <option name="autoReloadType" value="NONE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="a39a552d-749f-4442-9e72-f939e9b75696" name="Changes" comment="" />
+    <list default="true" id="a39a552d-749f-4442-9e72-f939e9b75696" name="Changes" comment="Se creo el .gitignore">
+      <change afterPath="$PROJECT_DIR$/lab4/.gitignore" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/lab4/.idea/.gitignore" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/lab4/.idea/AndroidProjectSystem.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/lab4/.idea/compiler.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/lab4/.idea/gradle.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/lab4/.idea/migrations.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/lab4/.idea/misc.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/lab4/.idea/runConfigurations.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/lab4/.idea/vcs.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/lab4/app/.gitignore" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/lab4/app/build.gradle.kts" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/lab4/app/proguard-rules.pro" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/lab4/app/src/androidTest/java/com/example/pantallabasica/ExampleInstrumentedTest.kt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/lab4/app/src/main/AndroidManifest.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/lab4/app/src/main/java/com/example/pantallabasica/MainActivity.kt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/lab4/app/src/main/java/com/example/pantallabasica/ui/theme/Color.kt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/lab4/app/src/main/java/com/example/pantallabasica/ui/theme/Theme.kt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/lab4/app/src/main/java/com/example/pantallabasica/ui/theme/Type.kt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/lab4/app/src/main/res/drawable/ic_launcher_background.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/lab4/app/src/main/res/drawable/ic_launcher_foreground.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/lab4/app/src/main/res/mipmap-anydpi/ic_launcher.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/lab4/app/src/main/res/mipmap-anydpi/ic_launcher_round.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/lab4/app/src/main/res/mipmap-hdpi/ic_launcher.webp" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/lab4/app/src/main/res/mipmap-hdpi/ic_launcher_round.webp" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/lab4/app/src/main/res/mipmap-mdpi/ic_launcher.webp" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/lab4/app/src/main/res/mipmap-mdpi/ic_launcher_round.webp" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/lab4/app/src/main/res/mipmap-xhdpi/ic_launcher.webp" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/lab4/app/src/main/res/mipmap-xhdpi/ic_launcher_round.webp" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/lab4/app/src/main/res/mipmap-xxhdpi/ic_launcher.webp" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/lab4/app/src/main/res/mipmap-xxhdpi/ic_launcher_round.webp" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/lab4/app/src/main/res/mipmap-xxxhdpi/ic_launcher.webp" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/lab4/app/src/main/res/mipmap-xxxhdpi/ic_launcher_round.webp" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/lab4/app/src/main/res/values/colors.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/lab4/app/src/main/res/values/strings.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/lab4/app/src/main/res/values/themes.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/lab4/app/src/main/res/xml/backup_rules.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/lab4/app/src/main/res/xml/data_extraction_rules.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/lab4/app/src/test/java/com/example/pantallabasica/ExampleUnitTest.kt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/lab4/build.gradle.kts" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/lab4/gradle.properties" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/lab4/gradle/libs.versions.toml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/lab4/gradle/wrapper/gradle-wrapper.jar" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/lab4/gradle/wrapper/gradle-wrapper.properties" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/lab4/gradlew" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/lab4/gradlew.bat" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/lab4/settings.gradle.kts" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+    </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -16,6 +64,18 @@
   <component name="Git.Settings">
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
   </component>
+  <component name="GitHubPullRequestSearchHistory"><![CDATA[{
+  "lastFilter": {
+    "state": "OPEN",
+    "assignee": "zoomjosue"
+  }
+}]]></component>
+  <component name="GithubPullRequestsUISettings"><![CDATA[{
+  "selectedUrlAndAccountId": {
+    "url": "https://github.com/zoomjosue/Plataformas-Moviles.git",
+    "accountId": "20de8ae0-8bec-4914-9632-3f7d0c6eee6a"
+  }
+}]]></component>
   <component name="ProjectColorInfo"><![CDATA[{
   "associatedIndex": 6
 }]]></component>
@@ -44,6 +104,19 @@
       <option name="presentableId" value="Default" />
       <updated>1755125002100</updated>
     </task>
+    <task id="LOCAL-00001" summary="Se creo el .gitignore">
+      <option name="closed" value="true" />
+      <created>1755125093997</created>
+      <option name="number" value="00001" />
+      <option name="presentableId" value="LOCAL-00001" />
+      <option name="project" value="LOCAL" />
+      <updated>1755125093997</updated>
+    </task>
+    <option name="localTasksCounter" value="2" />
     <servers />
+  </component>
+  <component name="VcsManagerConfiguration">
+    <MESSAGE value="Se creo el .gitignore" />
+    <option name="LAST_COMMIT_MESSAGE" value="Se creo el .gitignore" />
   </component>
 </project>
