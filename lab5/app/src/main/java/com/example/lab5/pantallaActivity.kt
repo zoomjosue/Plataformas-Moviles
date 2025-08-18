@@ -10,8 +10,8 @@ import androidx.compose.foundation.background
 import androidx.compose.foundation.layout.*
 import androidx.compose.foundation.shape.RoundedCornerShape
 import androidx.compose.material.icons.Icons
-import androidx.compose.material.icons.filled.Directions
-import androidx.compose.material.icons.filled.Download
+import androidx.compose.material.icons.filled.KeyboardArrowDown
+import androidx.compose.material.icons.filled.LocationOn
 import androidx.compose.material3.*
 import androidx.compose.runtime.Composable
 import androidx.compose.ui.Alignment
@@ -69,7 +69,7 @@ fun RestaurantScreen() {
             ) {
                 Row(verticalAlignment = Alignment.CenterVertically) {
                     Icon(
-                        imageVector = Icons.Default.Download,
+                        imageVector = Icons.Default.KeyboardArrowDown,
                         contentDescription = "Update",
                         tint = MaterialTheme.colorScheme.primary,
                         modifier = Modifier.size(24.dp)
@@ -172,7 +172,7 @@ fun RestaurantScreen() {
                         }
                     ) {
                         Icon(
-                            imageVector = Icons.Default.Directions,
+                            imageVector = Icons.Default.LocationOn,
                             contentDescription = "Directions",
                             tint = MaterialTheme.colorScheme.primary,
                             modifier = Modifier.size(28.dp)
@@ -227,7 +227,7 @@ fun RestaurantScreen() {
                         onClick = {
                             Toast.makeText(
                                 context,
-                                "Cafetería\nNormal: QQ",
+                                "Cafetería\nNormal: Q70",
                                 Toast.LENGTH_LONG
                             ).show()
                         },
