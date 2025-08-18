@@ -50,7 +50,7 @@ fun RestaurantScreen() {
             .background(MaterialTheme.colorScheme.background)
             .padding(16.dp)
     ) {
-        // Top Section with Update Available
+
         Card(
             modifier = Modifier
                 .fillMaxWidth()
@@ -99,7 +99,7 @@ fun RestaurantScreen() {
 
         Spacer(modifier = Modifier.height(24.dp))
 
-        // Date Section
+
         Row(
             modifier = Modifier.fillMaxWidth(),
             horizontalArrangement = Arrangement.SpaceBetween,
@@ -134,7 +134,6 @@ fun RestaurantScreen() {
 
         Spacer(modifier = Modifier.height(32.dp))
 
-        // Restaurant Card
         Card(
             modifier = Modifier
                 .fillMaxWidth()
@@ -150,7 +149,7 @@ fun RestaurantScreen() {
                     .fillMaxWidth()
                     .padding(20.dp)
             ) {
-                // Restaurant Header
+                
                 Row(
                     modifier = Modifier.fillMaxWidth(),
                     horizontalArrangement = Arrangement.SpaceBetween,
@@ -182,7 +181,6 @@ fun RestaurantScreen() {
 
                 Spacer(modifier = Modifier.height(8.dp))
 
-                // Address
                 Text(
                     text = "6ta av. 12-52 zona 10",
                     fontSize = 16.sp,
@@ -192,7 +190,6 @@ fun RestaurantScreen() {
 
                 Spacer(modifier = Modifier.height(8.dp))
 
-                // Hours
                 Text(
                     text = "7:00AM 8:00PM",
                     fontSize = 14.sp,
@@ -201,7 +198,6 @@ fun RestaurantScreen() {
 
                 Spacer(modifier = Modifier.height(24.dp))
 
-                // Action Buttons
                 Row(
                     modifier = Modifier.fillMaxWidth(),
                     horizontalArrangement = Arrangement.spacedBy(12.dp)
