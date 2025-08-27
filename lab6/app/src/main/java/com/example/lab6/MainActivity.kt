@@ -178,7 +178,7 @@ fun ContadorScreen() {
                     modifier = Modifier.padding(bottom = 16.dp)
                 )
 
-                // Layout manual para simular FlowRow con máximo 5 columnas
+                // Layout manual con máximo 5 columnas
                 HistorialGrid(historial)
             }
         }
